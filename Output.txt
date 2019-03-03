@@ -1,0 +1,51 @@
+Sorted Array: 
+String
+analyze
+character
+compute
+computer
+data
+first
+focus
+lab
+recap
+revise
+syntax
+variable
+work
+
+
+Enter a word to search(-1 to Exit): My
+The word 'My' cannot be found in the word array.
+
+Enter a word to search(-1 to Exit): name
+The word 'name' cannot be found in the word array.
+
+Enter a word to search(-1 to Exit): syntax
+The word 'syntax' is found at index 11.
+
+Enter a word to search(-1 to Exit): string
+The word 'string' cannot be found in the word array.
+
+Enter a word to search(-1 to Exit): strings
+The word 'strings' cannot be found in the word array.
+
+Enter a word to search(-1 to Exit): Strings
+The word 'Strings' cannot be found in the word array.
+
+Enter a word to search(-1 to Exit): String
+The word 'String' is found at index 0.
+
+Enter a word to search(-1 to Exit): focus
+The word 'focus' is found at index 7.
+
+Enter a word to search(-1 to Exit): class
+The word 'class' cannot be found in the word array.
+
+Enter a word to search(-1 to Exit): data
+The word 'data' is found at index 5.
+
+Enter a word to search(-1 to Exit): analyze
+The word 'analyze' is found at index 1.
+
+Enter a word to search(-1 to Exit): -1
